@@ -9,7 +9,7 @@
     If problems exist ensure your system is using the correct version.
 
 2.
-    In the terminal navigate to the .jar files location.
+    In the terminal navigate to the [.jar](TraderGame.jar) files location.
 
 3.
     When inside the can project directory. Run the following code:
