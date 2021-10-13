@@ -1,1 +1,4 @@
-
+# Stops the generated files from showing in git detect language.
+Documentation/** linguist-documentation
+Trader-Game/bin/** linguist-generated
+Trader-Game/doc/** linguist-generated

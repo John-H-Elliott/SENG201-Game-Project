@@ -23,7 +23,7 @@
 ---
 
 1.
-    Find the file **"Trader Game"** which contains the source code.  
+    Find the file **"Trader-Game"** which contains the source code.  
     It should contain the src, bin and doc directories.
 
 2.
