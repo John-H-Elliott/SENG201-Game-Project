@@ -41,7 +41,7 @@
 ---
 
 1.
-    Navigate to the **"src/GUI"** package.
+    Navigate to the **["src/GUI"](Trader-Game/src/GUI/)** package.
 
 2.
     Click on the GameEnvironment class. This class starts the game.
