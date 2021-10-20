@@ -1,8 +1,14 @@
 # **SENG201**-Game-Project
 
-## How to run the .jar file from the command line
+---
+
+## **Overview**
+
+This is a game project, you are a captain of a trading ship and you need to move from island to island making money before your time is up while trying not to get raided by pirates. This is a **Java** focused project and uses the **Swing** module for the GUI.
 
 ---
+
+## How to run the .jar file from the command line
 
 1.
     Make sure the machine this is being run on has [Java 14][javaWebsite] installed.  
@@ -18,9 +24,9 @@
     java -jar TraderGame.jar
     ```
 
-## How to load source code into eclipse
-
 ---
+
+## How to load source code into eclipse
 
 1.
     Find the file **"Trader-Game"** which contains the source code.  
@@ -36,9 +42,9 @@
 4.
     Click next and make any necessary changes to the configuration of the files.
 
-## How to run source code in eclipse
-
 ---
+
+## How to run source code in eclipse
 
 1.
     Navigate to the **["src/GUI"](Trader-Game/src/GUI/)** package.
